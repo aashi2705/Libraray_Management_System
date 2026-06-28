@@ -56,6 +56,9 @@ Safely exit the application
 
 **Technologies Used**
 Language: C++
+
 Programming Paradigm: Object-Oriented Programming (OOP)
+
 Compiler: GCC / G++ / MSVC / Clang
+
 Interface: Console-based application
