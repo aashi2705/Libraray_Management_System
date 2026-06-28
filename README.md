@@ -22,7 +22,7 @@ The features include:
 
 **Student Management:** Track which students have borrowed which books
 
-Inventory Management: Automatic updating of available book stock
+**Inventory Management:** Automatic updating of available book stock
 Main Menu Options
 
 **1. Issue Books**
