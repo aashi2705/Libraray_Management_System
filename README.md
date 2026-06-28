@@ -24,6 +24,7 @@ The features include:
 
 Inventory Management: Automatic updating of available book stock
 Main Menu Options
+
 **1. Issue Books**
 
 View all available books with details
