@@ -55,6 +55,7 @@ Check real-time availability
 Safely exit the application
 
 **Technologies Used**
+
 Language: C++
 
 Programming Paradigm: Object-Oriented Programming (OOP)
